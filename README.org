@@ -1,0 +1,4 @@
+* Generative diffusion model for surface structure discovery
+Datasets and scripts used in paper.
+
+Diffusion package can be found at https://github.com/nronne/dss. 
